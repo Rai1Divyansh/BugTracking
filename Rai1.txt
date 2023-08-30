@@ -1,0 +1,13 @@
+DATE AND TIME: 2023-08-30 19:19:32
+BUG ID: 1
+
+BUG FILED BY: Rai
+
+TYPE OF BUG: runtime error
+
+BUG PRIORITY: low
+
+BUG DESCRIPTION: this came due to syntax error in program
+
+DATE AND TIME: 2023-08-30 19:19:32
+BUG STATUS: FIXED
